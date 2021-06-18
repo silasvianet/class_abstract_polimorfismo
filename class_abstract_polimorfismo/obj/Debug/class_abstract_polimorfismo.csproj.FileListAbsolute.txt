@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\bin\Debug\class_abstract_polimorfismo.exe.config
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\bin\Debug\class_abstract_polimorfismo.exe
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\bin\Debug\class_abstract_polimorfismo.pdb
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\obj\Debug\class_abstract_polimorfismo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\obj\Debug\class_abstract_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\obj\Debug\class_abstract_polimorfismo.exe
+C:\Users\Admin\source\repos\class_abstract_polimorfismo\class_abstract_polimorfismo\obj\Debug\class_abstract_polimorfismo.pdb
